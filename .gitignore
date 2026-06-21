@@ -1,0 +1,9 @@
+# Devenv build and state directories
+.devenv/
+
+# Direnv environment cache
+.direnv/
+
+# Nix build outputs and symlinks
+result
+result-*
